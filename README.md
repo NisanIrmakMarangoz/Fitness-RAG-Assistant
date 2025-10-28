@@ -32,5 +32,5 @@ sorulan soruları doğru ve güvenilir bir şekilde cevaplamaktır.
 **https://github.com/NisanIrmakMarangoz/Fitness-RAG-Assistant**
 
 
-**https://a2b5dd184328f418a3.gradio.live**
+**https://34a77e75c55bcd5454.gradio.live**
 
