@@ -22,7 +22,12 @@ Bu rapor, projenin teknik mimarisini, kullanılan teknolojileri ve canlı web ar
 
 ### A.3 RAG Akış Şeması
 Proje, her sorguda şu akışı izler:
-Soru $ightarrow$ ChromaDB (Arama) $ightarrow$ İlgili Veri Parçaları $ightarrow$ Prompt Şablonu $ightarrow$ Gemini $ightarrow$ Nihai Cevap
+Soru $
+ightarrow$ ChromaDB (Arama) $
+ightarrow$ İlgili Veri Parçaları $
+ightarrow$ Prompt Şablonu $
+ightarrow$ Gemini $
+ightarrow$ Nihai Cevap
 
 ---
 
@@ -31,7 +36,7 @@ Soru $ightarrow$ ChromaDB (Arama) $ightarrow$ İlgili Veri Parçaları $ighta
 Bu bölüm, canlı uygulamanın nasıl kullanılacağını, hangi kabiliyetlere sahip olduğunu ve test senaryolarını içerir.
 
 ### B.1 Uygulama Linki (Deploy Link)
-Canlı uygulamaya erişim linki aşağıdadır. https://b88169486e8cfc1bb8.gradio.live
+Canlı uygulamaya erişim linki aşağıdadır. https://34a77e75c55bcd5454.gradio.live
 
 
 ### B.2 Kullanıcı Akışı ve Çalışma Prensibi
